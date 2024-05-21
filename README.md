@@ -1,2 +1,2 @@
 # kruskal-wallis
- Development of Nonparametric Kruskal-Wallis Test in MATLAB, R, and Python
+ Development of Nonparametric Kruskal-Wallis Test in MATLAB and Python
